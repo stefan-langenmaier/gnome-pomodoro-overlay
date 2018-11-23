@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<longdescription>This GNOME app helps to manage time according to Pomodoro Technique. It intends to improve productivity and quality of work by reminding you to take short breaks.</longdescription>
+	<upstream>
+		<remote-id type="github">codito/gnome-pomodoro</remote-id>
+	</upstream>
+</pkgmetadata>

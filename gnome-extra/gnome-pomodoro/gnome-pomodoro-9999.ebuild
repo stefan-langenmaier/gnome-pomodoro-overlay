@@ -8,7 +8,7 @@ VALA_USE_DEPEND="vapigen"
 
 inherit autotools vala gnome2 git-r3
 EGIT_REPO_URI="https://github.com/codito/gnome-pomodoro"
-# newer version need >vala-40
+# newer versions need >vala-40
 EGIT_BRANCH="gnome-3.26"
 
 DESCRIPTION="Time management utility for GNOME based on the pomodoro technique"
